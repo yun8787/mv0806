@@ -2,6 +2,8 @@ package model;
 
 public class Product {
 	
+	//test02
+	
 	private String code;
     private String price;
     private int quantity;
