@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-time:<%=new java.util.Date().toLocaleString() %>
+time:<%= new java.util.Date().toLocaleString() %>
 </body>
 </html>
